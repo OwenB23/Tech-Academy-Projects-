@@ -1,0 +1,11 @@
+.table {
+  background-color: blueviolet;
+  color: aliceblue;
+  border: 2px solid;
+}
+
+.table:hover {
+  background-color: aquamarine;
+  color: black;
+  transition: 0.4s;
+}
